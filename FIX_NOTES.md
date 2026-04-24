@@ -1,0 +1,1 @@
+v24 fixes backend ImportError by restoring analyze_resume_text and build_rewrite_suggestions in server/services/ai_service.py\n
